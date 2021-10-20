@@ -1,0 +1,176 @@
+h3{
+    font-family: arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 120px;  
+    color:#082A5E;
+}
+h4{ 
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 63.4286px;
+    line-height: 95px;
+    
+    color: #000000; 
+}
+h1{
+    position: absolute;
+    width: 993px;
+    height: 174px;
+    left: 172px;
+    top: 246px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 117.41px;
+    line-height: 176px;
+    
+    color: #082A5E;
+}
+.container{
+  width:808px;
+  height: 480px;
+  top: 1196px;
+  left:118px;
+  border-radius: 20px;
+  background-image: linear-gradient(to top left #FE9A32 #F3C72A );
+  position: absolute;  
+}
+p{
+ font-family: Arial;
+ font-size: 20px;
+ font-weight: normal;
+ line-height: 30px;
+ size: 20px
+}
+.alerticon
+{
+    height: 45px;
+    width: 45px;
+    left: 1.5px;
+    top: 27.5px;
+    border-radius: 0px;
+    
+}
+.container2
+{
+    height: 480px;
+    width: 808px;
+    left: 997px;
+    top: 1196px;
+    border-radius: 20px;
+    background-image: linear-gradient(108.06deg, #F4C22B -4.81%, #FE9A32 111.12%);
+      position: absolute;
+}
+.container2p
+{
+font: arial;
+font-weight: bold;
+font-style: normal;
+font-size: 20px;
+line-height: 30px;
+position: static;
+color: black;
+}
+.greenicon
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    
+    position: absolute;
+    width: 588px;
+    height: 70px;
+    left: 1028px;
+    top: 1323px;
+}
+.travelh
+{
+position: absolute;
+
+font-family: arial;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 72px;
+}
+.headerc
+{
+position: absolute;
+font-family: arial;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 72px;
+}
+.compchart
+{
+    position: absolute;
+    width: 1288px;
+    height: 931px;
+    left: 414px;
+    top: 1958px;
+    background: #FFE2CC;
+    border-radius: 10px;   
+}
+.boring
+{
+position: absolute;
+}
+/* the one on top is for the tittle the boring stuff the one on the bottom is for potential reorts */
+.boring2
+{
+    position: absolute;    
+}
+.more{
+    position: absolute;
+    width: 820px;
+    height: 74px;
+    left: 550px;
+    top: 2999px; 
+}
+.compchart
+{
+position: absolute;
+width: 1695px;
+height: 936.88px;
+left: 110px;
+top: 1944.06px;
+}
+.yoda.png
+{
+    position: absolute;
+    width: 403px;
+    height: 549px;
+    left: 725px;
+    top: 3078px;
+}
+.b1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px 10px 16px;
+    
+    position: absolute;
+    width: 418px;
+    height: 119px;
+    left: 739px;
+    top: 3668px;
+    
+    background: #082A5E;
+    border-radius: 100px;
+}
+.chevron{
+position: absolute;
+width: 115px;
+height: 34px;
+left: 882px;
+top: 988px;
+border: 13.4211px solid #000000;
+}
